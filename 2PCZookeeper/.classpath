@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry including="**/*.java" kind="src" path="src/main/scala"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14.jar" sourcepath="M2_REPO/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/slf4j/slf4j-log4j12/1.7.25/slf4j-log4j12-1.7.25.jar"/>
+	<classpathentry kind="var" path="M2_REPO/log4j/log4j/1.2.17/log4j-1.2.17.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/github/spotbugs/spotbugs-annotations/3.1.9/spotbugs-annotations-3.1.9.jar"/>
+	<classpathentry kind="var" path="M2_REPO/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"/>
+	<classpathentry kind="var" path="M2_REPO/jline/jline/0.9.94/jline-0.9.94.jar"/>
+	<classpathentry kind="var" path="M2_REPO/junit/junit/3.8.1/junit-3.8.1.jar"/>
+	<classpathentry kind="var" path="M2_REPO/org/apache/yetus/audience-annotations/0.5.0/audience-annotations-0.5.0.jar"/>
+	<classpathentry kind="var" path="M2_REPO/io/netty/netty/3.10.6.Final/netty-3.10.6.Final.jar"/>
+	<classpathentry kind="output" path="target/scala/classes"/>
+</classpath>
